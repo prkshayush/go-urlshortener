@@ -2,7 +2,7 @@
 
 ## Tech Stack used
 
-- Gin, MongoDB, Nongoose
+- Gin, MongoDB, Mongoose
 
 ### Design
 
