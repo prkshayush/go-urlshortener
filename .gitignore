@@ -1,2 +1,4 @@
 # All text files
 *.txt
+# .exe files
+*.exe
